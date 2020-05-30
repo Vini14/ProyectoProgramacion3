@@ -1,0 +1,22 @@
+﻿
+hola#hola?#Hola bienvenido hamburguesas express, en que podemos ayudarle?
+Combos#Combos?#Le ofrecemos 2 combos personales, 2 combos familiares
+Personales#Personales?#Le ofrecemos el combo 1: que le incluye una pieza de pollo al gusto, una porcion de papas y una lata de gaseosa. El combo 2: de una hamburguesa de pollo, una porcion de papas y una lata de gaseosa.
+familiares#familiares?#Le ofrecemos el combo 3: que le incluye 8 piezas de pollo, 6 porciones de papas y 6 latas de gaseosa. El combo 4: de 6 hamburguesas de pollo, 6 porciones de papas y 6 latas de gaseosa.
+deseo#ordenar#1#1?#Con gusto, proporcionanos tu direccion y un numero de telefono para hacerte la entrega.
+ordenar#1#1?#Con gusto, proporcionanos tu direccion y un numero de telefono para hacerte la entrega.
+av#avenida#calle#calle?#Muy bien su orden estara procesando en los proximos minutos, la entrega se realizara aproximadamente en 30 Minutos, algo mas en lo que le podemos ayudar?.
+deseo#ordenar#2#2?#Con gusto, proporcionanos tu direccion para hacerte la entrega.
+deseo#ordenar#3#3?#Con gusto, proporcionanos tu direccion para hacerte la entrega.
+deseo#ordenar#4#4?#Con gusto, proporcionanos tu direccion para hacerte la entrega.
+ordenar#2#2?#Con gusto, proporcionanos tu direccion para hacerte la entrega.
+ordenar#3#3?#Con gusto, proporcionanos tu direccion para hacerte la entrega.
+ordenar#4#4?#Con gusto, proporcionanos tu direccion para hacerte la entrega.
+Adios#Adios?#Gracias, nos estaremos comunicando con usted.
+no#no?#Gracias por preferirnos adios!    -------Chat acabado---------.
+direccion#hay algo mas en lo que le podamos ayudar
+gracias#gracias?#Es un gusto atenderle, algo mas en lo que le pueda ayudar?
+combo#1#1?#El combo individual 1 tiene el valor de Q. 38.00
+combo#2#2?#El combo indivdual 2 tiene el valor de Q. 40.00
+combo#3#3?#El combo familiar 3 tiene el valor de Q. 258.00
+combo#4#4?#El combo familiar 4 tiene el valor de Q. 240.00
